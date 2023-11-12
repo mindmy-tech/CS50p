@@ -1,2 +1,2 @@
 # CS50p
-CS50p answers
+CS50p Pset answers
